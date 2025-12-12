@@ -38,8 +38,9 @@ This project was originally based on an exercise case in the IBM Data Analyst co
 - Pandas   
 - Matplotlib  
 - Jupyter Notebook  
-
+```
 ## Visualization Example
 
 ![Tesla Stock and Revenue](images/data_of_tesla.png)
+
 
